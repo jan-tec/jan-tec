@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in 3d printing, engineering, electronics
-- 🌱 I’m currently learning mechatronics engineering
-- 💞️ I’m looking to work on new 3D printing techniques and battery recycling methods 
+- 🌱 I’m currently learning electrical engineering
 - 📫 How to reach me hello@jantec.xyz
 - Twitter @jan_tec
 
